@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @zsamadi 
-- 👀 I’m interested in almost all fields of science :), kidding, recently been interseted in AI applications. 
-- 🌱 I’m currently learning how to make use of deep learning and signal processing stuff to make a difference :)
-- 💞️ I’m looking to collaborate on highly qualified reseach efforts with engaged and motivated team of experts. 
+- 👋 @zsamadi 
 - 📫 You can reach me through my gmail at z.samadi. 
 
 <!---
